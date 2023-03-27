@@ -14,7 +14,8 @@ root.render(
       <h1>The weather in your city</h1>
       <WeatherSearch />
    <small>
-          <a href="https://github.com/fotinia-sadovskaya/weather-react" target="_blank">Open-source code</a> {""}  
+          <a href="https://github.com/fotinia-sadovskaya/weather-react" target="_blank" rel="noreferrer"
+  >Open-source code</a> {""}  
           by Svitlana Voron'ko
         </small>
     </div>
